@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey there, I'm Luna!
 
-<!--
-**Lunar-525/Lunar-525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+I'm a creative enthusiast passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎵 **Music Production:** EDM, Chillstep, HDM
+* 📸 **Photography & Visual Design**
+* 🎮 **Learning at Minecraft Modding & Game Development**
+* 💻 **Python & Java Development**
+
+## 🚀 Current Projects
+
+* **JarTender:** A sleek Minecraft server manager built with Python and PyQt5.
+
+
+## 🛠️ Tech Stack
+
+* Python | Java | JavaScript | Linux
+
+## 🎧 Listening to lately
+
+Porter Robinson
+
+## 📫 Let's Connect!
+
+* Discord | selenic_luna
+
+> ✨ Creating, exploring, and sharing stories one project at a time.
