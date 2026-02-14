@@ -16,7 +16,7 @@ I'm a creative enthusiast passionate about:
 
 ## 🛠️ Tech Stack
 
-* Python | Java | JavaScript | Linux
+* Python | Java | Linux
 
 ## 🎧 Listening to lately
 
